@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on ...Python, SQL and MySQL.
-- 🌱 I’m currently learning ...SQL, PowerBI, NLP and Machine Learning algorithms.
+- 🌱 I’m currently learning ...MySQL, PowerBI, NLP and Machine Learning algorithms.
 - 👯 I’m looking to collaborate on ...ML/AI and data analysis related projects
 - 💬 Ask me about ...Machine Learning and Data Analysis.
 - ⭐ Goal for 2023: Dwell more in ML & Data Anaytics and make more contributions.
