@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning ...SQL, PowerBI, NLP and Machine Learning algorithms.
 - 👯 I’m looking to collaborate on ...Machine Learning and AI related projects
 - 💬 Ask me about ...Machine Learning and Data Analysis.
+- ⭐ Goal for 2023: Dwell more in ML & Data Anaytics and make more contributions.
 
 <!--
 - 🤔 I’m looking for help with ...
