@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=sarahcodebyte&color=blueviolet)
 
 
-- 🔭 I’m currently working on ...Python, MS-SQL and MySQL.
+- 🔭 I’m currently working on ...Python and MySQL.
 - 🌱 I’m currently learning ...MySQL, PowerBI, NLP and Machine Learning algorithms.
 - 👯 I’m looking to collaborate on ...ML/AI and data analysis related projects
 - 💬 Ask me about ...Machine Learning and Data Analysis.
