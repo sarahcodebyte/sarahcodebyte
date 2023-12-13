@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on ...Python, Tableau, MySQL, ML and DL.
-- 🌱 I’m currently learning ...MySQL, Tableau, DL, NLP, and Machine Learning algorithms.
+- 🌱 I’m currently learning ...MySQL, Tableau, DL, NLP, Data Engineering and Machine Learning algorithms.
 - 👯 I’m looking to collaborate on ...ML/AI and data analysis-related projects
 - 💬 Ask me about ...Machine Learning and Data Analysis.
 - ⭐ Goal for 2023: Dwell more in ML and data Analytics and contribute more.
