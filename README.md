@@ -21,6 +21,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sarahcodebyte&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahcodebyte&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Sarah's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sarahcodebyte&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sarahcodebyte/github-readme-stats#gh-dark-mode-only)
+
 ### Trophies : 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sarahcodebyte)](https://github.com/ryo-ma/github-profile-trophy)
